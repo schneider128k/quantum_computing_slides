@@ -16,7 +16,7 @@ Create a GitHub repo with a simple readme file. Enter the link to your repo in W
 ## Problem 2
 
 Solve the matrix probles described in the colab notebook 
-[HW_1_Problem_2](https://colab.research.google.com/drive/1kF9LiuLmVdHco5HGz1x4cw3nrKHDtzwJ). 
+[hw_1_problem_2](https://colab.research.google.com/drive/1kF9LiuLmVdHco5HGz1x4cw3nrKHDtzwJ). 
 
-Make your notebook editable, obtain a sharable link, and enter it in Webcourse.  Also make sure that you save the notebook to 
-your GitHub repo in the folder ```hw_1```.
+Make your notebook editable, obtain a sharable link, and enter it in Webcourses.  Also make sure that you save the notebook to 
+your GitHub repo in the folder called ```hw_1```.
